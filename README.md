@@ -1,22 +1,19 @@
-## Hi there 👋
+## Привет! 👋
+# Меня зовут Нина Будуховская
 
+Я изучаю машинное обучение и с детства увлекаюсь роботами. Хочу развиваться в области применения ML в робототехнике и создавать реальные системы. Люблю работать руками, собирать и тестировать устройства, а также анализировать данные и оптимизировать процессы.  
+
+📄 [Моё резюме]([ссылка_на_resume_репо](https://github.com/26Ginger/resume/))
+
+
+---
+
+## Hi there 👋
 # I'm Nina Budukhovskaia
 
-**Aspiring Robotics & ML Engineer**
--
-Я изучаю машинное обучение и с детства увлекаюсь роботами. Хочу развиваться в области применения ML в робототехнике и создавать реальные системы. Люблю работать руками, собирать и тестировать устройства, а также анализировать данные, оптимизировать процессы и программировать.
+**Robotics & ML Enthusiast | Aspiring Engineer**  
 
-<!--
-**26Ginger/26Ginger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study machine learning and have been passionate about robots since childhood. I aim to develop ML applications in robotics and build real-world systems. I enjoy hands-on work: assembling and testing devices, analyzing data, and optimizing processes.  
 
-Here are some ideas to get you started:
+📄 [My resume]([link_to_resume_repo](https://github.com/26Ginger/resume/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
